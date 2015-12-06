@@ -1,0 +1,20 @@
+<div class="col-md-8">
+  <div>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3>
+          <%= @food_item.name %>
+          <span class="badge pull-right"><%= @food_item.price %> VND</span>
+        </h3>
+      </div>
+      <div class="panel-content">
+        <br/>
+        <img src="<%= @food_item.image_url %>" class="img-responsive"/>
+        <br/>
+      </div>
+      <div class="panel-footer text-center">
+        <p><%= @food_item.description %></p>
+      </div>
+    </div>
+  </div>
+</div>

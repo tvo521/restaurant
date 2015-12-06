@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+breakfast:
+  id: 1
+  name: Breakfast
+
+launch:
+  id: 2
+  name: Launch
+
+dinner:
+  id: 3
+  name: Dinner
+
+drinks:
+  id: 4
+  name: Drinks

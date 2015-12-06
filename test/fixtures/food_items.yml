@@ -1,0 +1,161 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  name: Pho
+  description: Vietnamese noodle
+  price: 25000
+  image_url: http://loremflickr.com/320/240/pho
+  menu_item_id: 1
+
+two:
+  id: 2
+  name: Bot Chien
+  description: Vietnamese fried powder
+  price: 16000
+  image_url: http://loremflickr.com/320/240/bot+chien
+  menu_item_id: 1
+
+three:
+  id: 3
+  name: Hu Tieu
+  description: Vietnamese Cambodian noodle
+  price: 25000
+  image_url: http://loremflickr.com/320/240/hu+tieu
+  menu_item_id: 1
+
+four:
+  id: 4
+  name: Banh Mi
+  description: Vietnamese bread
+  price: 8000
+  image_url: http://loremflickr.com/320/240/banh+mi
+  menu_item_id: 1
+
+five:
+  id: 5
+  name: Phen La
+  description: Vietnamese pan cake
+  price: 10000
+  image_url: http://loremflickr.com/320/240/pan+cake
+  menu_item_id: 1
+
+six:
+  id: 6
+  name: Canh Chua
+  description: Vietnamese sour soup
+  price: 25000
+  image_url: http://loremflickr.com/320/240/canh+chua
+  menu_item_id: 2
+
+seven:
+  id: 7
+  name: Mi Quang
+  description: Vietnamese Quang noodle
+  price: 16000
+  image_url: http://loremflickr.com/320/240/mi+quang
+  menu_item_id: 2
+
+eight:
+  id: 8
+  name: Com Tam
+  description: Vietnamese Tam's rice
+  price: 25000
+  image_url: http://loremflickr.com/320/240/com+tam
+  menu_item_id: 2
+
+nine:
+  id: 9
+  name: Pizza
+  description: Pizza for fun
+  price: 90000
+  image_url: http://loremflickr.com/320/240/pizza
+  menu_item_id: 2
+
+ten:
+  id: 10
+  name: KFC
+  description: American fast food
+  price: 40000
+  image_url: http://loremflickr.com/320/240/hamburger
+  menu_item_id: 2
+
+eleven:
+  id: 11
+  name: Canh Chua
+  description: Vietnamese sour soup
+  price: 25000
+  image_url: http://loremflickr.com/320/240/canh+chua
+  menu_item_id: 3
+
+twelve:
+  id: 12
+  name: Mi Quang
+  description: Vietnamese Quang noodle
+  price: 16000
+  image_url: http://loremflickr.com/320/240/mi+quang
+  menu_item_id: 3
+
+thirteen:
+  id: 13
+  name: Com Tam
+  description: Vietnamese Tam's rice
+  price: 25000
+  image_url: http://loremflickr.com/320/240/com+tam
+  menu_item_id: 3
+
+forteen:
+  id: 14
+  name: Pizza
+  description: Pizza for fun
+  price: 90000
+  image_url: http://loremflickr.com/320/240/pizza
+  menu_item_id: 3
+
+fifteen:
+  id: 15
+  name: KFC
+  description: American fast food
+  price: 40000
+  image_url: http://loremflickr.com/320/240/hamburger
+  menu_item_id: 3
+
+sixteen:
+  id: 16
+  name: 7up
+  description: Seven up
+  price: 25000
+  image_url: http://loremflickr.com/320/240/sevenup
+  menu_item_id: 4
+
+seventeen:
+  id: 17
+  name: Fanta
+  description: Fanta
+  price: 10000
+  image_url: http://loremflickr.com/320/240/fanta
+  menu_item_id: 4
+
+eighteen:
+  id: 18
+  name: Sprite
+  description: Sprite
+  price: 10000
+  image_url: http://loremflickr.com/320/240/sprite
+  menu_item_id: 4
+
+nineteen:
+  id: 19
+  name: Pepsi
+  description: Pepsi
+  price: 10000
+  image_url: http://loremflickr.com/320/240/pepsi
+  menu_item_id: 4
+
+twenty:
+  id: 20
+  name: Coca
+  description: Cocacola
+  price: 10000
+  image_url: http://loremflickr.com/320/240/coke
+  menu_item_id: 4
