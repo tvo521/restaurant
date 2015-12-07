@@ -7,7 +7,7 @@
         </a>
         <div id="<%= menu_item.name.downcase %>" class="sublinks collapse">
           <% menu_item.food_items.each do |food_item| %>
-            <a href="<%= food_path(food_item.id) %>" class="list-group-item small">
+            <a href="<%= show_food_path(food_item.id) %>" class="list-group-item small">
               <input type="hidden" value="<%= food_item.id %>"/>
               <span class="glyphicon glyphicon-chevron-right"></span> <%= food_item.name %>
               <span class="badge pull-right"><%= food_item.price %> VND</span>
